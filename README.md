@@ -9,12 +9,12 @@ Beginner-friendly Governance, Risk, and Compliance roadmap.
 | Day | Topic |
 |---|---|
 | Day 1 | [GRC Foundations & CIA Triad](Day1-GRC-Foundations.md) |
-| Day 2 | Risk Assessment |
-| Day 3 | Compliance Frameworks |
-| Day 4 | ISO 27001 |
-| Day 5 | NIST Framework |
-| Day 6 | Auditing |
-| Day 7 | GRC Career Roadmap |
+| Day 2 | ISO 27001 + NIST CSF |
+| Day 3 | Risk Management + Risk Register |
+| Day 4 | Compliance Laws + Audit Basics |
+| Day 5 | Policies + Gap Analysis + BCP |
+| Day 6 | Incident Management + TPRM + VAPT in GRC |
+| Day 7 | Full Mock Interview Day |
 
 ---
 
